@@ -1,5 +1,3 @@
-# --- README.md ---
-
 # Telegram Auto Reply Bot
 
 Offline auto-responder built on Pyrogram. Replies once per user per cooldown window. Every inbound message is logged to SQLite for later review.
