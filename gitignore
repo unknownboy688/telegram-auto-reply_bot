@@ -1,0 +1,9 @@
+# --- .gitignore ---
+*.session
+*.session-journal
+autoreply.db
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
